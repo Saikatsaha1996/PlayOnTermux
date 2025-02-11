@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=🗑 Uninstall App
+Exec=playontermux --uninstall
+Icon=delete
+Type=Application
+Categories=Utility;Game;

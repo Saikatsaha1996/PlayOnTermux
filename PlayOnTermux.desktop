@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PlayOnTermux
+Comment=Manage Windows Apps in Termux
+Icon=wine
+Type=Application
+Categories=Utility;Game;
+NoDisplay=true

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=🖥 Open Desktop Shell
+Exec=playontermux --shell
+Icon=computer
+Type=Application
+Categories=Utility;Game;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=📊 Open Task Manager
+Exec=playontermux --taskmgr
+Icon=utilities-system-monitor
+Type=Application
+Categories=Utility;Game;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=🔄 Set DXVK Overrides
+Exec=playontermux --overrides
+Icon=preferences-desktop
+Type=Application
+Categories=Utility;Game;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=🎛 Run Winetricks
+Exec=playontermux --winetricks
+Icon=wine
+Type=Application
+Categories=Utility;Game;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=📂 Install App
+Exec=playontermux --install
+Icon=package
+Type=Application
+Categories=Utility;Game;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=🎮 PlayOnTermux
+Comment=Launch PlayOnTermux UI
+Exec=playontermux --ui
+Icon=wine
+Type=Application
+Categories=Utility;Game;
